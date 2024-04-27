@@ -51,7 +51,7 @@ def process_input(urls, question):
 
 # Streamlit UI
 
-st.title("Document Query with Ollama")
+st.title("Query Chat (Using Ollama")
 st.write("Enter URLs (one per line) and a question to query the documents.")
 
 # Input fields
