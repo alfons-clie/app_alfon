@@ -1,0 +1,3 @@
+pip install streamlit langchain_community langchain_core chromadb tiktoken BeautifulSoup4
+pip install -U langchain-community
+
